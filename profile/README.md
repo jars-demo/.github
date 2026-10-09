@@ -52,7 +52,6 @@ Found an issue or have an idea? Open an issue or contribute directly to the rele
 
 ---
 
-**JARS DEMO**  
-Created and maintained by **[Jishanahmed AR Shaikh (JARS)](https://jishanahmed.in)**
+**JARS DEMO**  - Created and Maintained by **[Jishanahmed AR Shaikh (JARS)](https://jishanahmed.in)**
 
 [GitHub](https://github.com/jars-demo) · [Portfolio](https://jishanahmed.in) · [Mail](mailto:jishanahmedshaikh@gmail.com)
