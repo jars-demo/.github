@@ -1,7 +1,7 @@
 
 **Practical engineering. Learned by building.**
 
-JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs created by **[Jishanahmed AR Shaikh — JARS](https://jishanahmed.in)**.
+JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs created by **[Jishanahmed AR Shaikh - JARS](https://jishanahmed.in)**.
 
 Explore modern technologies through working implementations, guided experiments, and practical demonstrations. Every project is designed to help developers go beyond documentation and understand how things work in practice.
 
@@ -26,13 +26,13 @@ Hands-on explorations of open-source technologies, with practical examples and r
 
 Reusable engineering tools designed to extend beyond a single workshop.
 
-- **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** — A provider-agnostic Python email layer with a consistent API.
+- **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** - A provider-agnostic Python email layer with a consistent API.
 
 ### Agent Skills & Playbooks
 
 Focused, reusable instructions and workflows for AI-assisted development.
 
-- **[JARS Skills](https://github.com/jars-demo/jars-skills)** — Practical agent skills and engineering playbooks for modern coding tools.
+- **[JARS Skills](https://github.com/jars-demo/jars-skills)** - Practical agent skills and engineering playbooks for modern coding tools.
 
 ---
 
@@ -55,4 +55,4 @@ Found an issue or have an idea? Open an issue or contribute directly to the rele
 **JARS DEMO**  
 Created and maintained by **[Jishanahmed AR Shaikh (JARS)](https://jishanahmed.in)**
 
-[GitHub](https://github.com/jars-demo) · [Portfolio](https://jishanahmed.in)
+[GitHub](https://github.com/jars-demo) · [Portfolio](https://jishanahmed.in) · [Mail](mailto:jishanahmedshaikh@gmail.com)
