@@ -1,8 +1,7 @@
 
 **Practical engineering. Learned by building.**
 
-JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs created by 
-**[Jishanahmed AR Shaikh - JARS](https://jishanahmed.in)**.
+JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs
 
 Explore modern technologies through working implementations, guided experiments, and practical demonstrations. Every project is designed to help developers go beyond documentation and understand how things work in practice.
 
