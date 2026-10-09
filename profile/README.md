@@ -1,46 +1,58 @@
-# JARS DEMO
 
-**Build it. Break it. Understand it.**
+**Practical engineering. Learned by building.**
 
-JARS DEMO is a collection of hands-on developer workshops, open-source demos, and practical engineering kits. Explore modern tools by building real projects, investigating failures, and learning how the pieces work together by Mr. JARS (Jishanahmed AR Shaikh)
+JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs created by **[Jishanahmed AR Shaikh — JARS](https://jishanahmed.in)**.
 
-## Explore the projects
-
-### Workshops & Engineering labs
-
-Practical, reproducible walkthroughs built around real open-source technologies.
-
-- [Cognee Demo](https://github.com/jars-demo/cognee-demo) — Explore AI memory, knowledge graphs, and retrieval workflows.
-- [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) — Learn graph databases through a hands-on workshop.
-- [DataHub Demo](https://github.com/jars-demo/datahub-demo) — Explore Context and metadata management and data discovery.
-- [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) — Protect a Python application and understand the limits of code obfuscation.
-- [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) — Compare MCP and traditional API integration patterns.
-- [OTEL Demo](https://github.com/jars-demo/otel-demo) — Break a distributed system, trace the failure, find the root cause, and fix it. Learn by testing, tracing, debugging, and fixing real systems.
-
-### Developer kits & reusable tools
-
-Tools intended to be useful beyond a single workshop.
-
-- [MailingKit Demo](https://github.com/jars-demo/mailingkit-demo) — A provider-agnostic Python email layer with a consistent API.
-
-### Agent skills & playbooks
-
-- [JARS Skills](https://github.com/jars-demo/jars-skills) — Reusable agent skills and focused engineering playbooks.
-
-## Approach
-
-- **Hands-on first:** Learn by running and changing real code.
-- **Reproducible:** Clear setup steps and practical verification.
-- **Understand the trade-offs:** Explain why something works, where it fails, and what to watch out for.
-- **Independent projects:** Each repository keeps its own scope, dependencies, and release lifecycle.
-- **Open source:** Explore the code, report issues, and contribute.
-
-## Get started
-
-Choose a project, follow its README, run the examples, and experiment.
-
-Found a problem or have an improvement? Open an issue in the relevant repository.
+Explore modern technologies through working implementations, guided experiments, and practical demonstrations. Every project is designed to help developers go beyond documentation and understand how things work in practice.
 
 ---
 
-JARS DEMO · Practical engineering, learned by building.
+## Projects
+
+### Workshops & Learning Labs
+
+Hands-on explorations of open-source technologies, with practical examples and reproducible setups.
+
+| Project | What you'll explore |
+|---|---|
+| [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows |
+| [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications |
+| [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and data platforms |
+| [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection and deployment |
+| [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns |
+| [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation |
+
+### Developer Tools
+
+Reusable engineering tools designed to extend beyond a single workshop.
+
+- **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** — A provider-agnostic Python email layer with a consistent API.
+
+### Agent Skills & Playbooks
+
+Focused, reusable instructions and workflows for AI-assisted development.
+
+- **[JARS Skills](https://github.com/jars-demo/jars-skills)** — Practical agent skills and engineering playbooks for modern coding tools.
+
+---
+
+## Principles
+
+- **Learn by doing.** Working code over theory alone.
+- **Reproducible by design.** Clear setup instructions and verifiable results.
+- **Understand the trade-offs.** Explore limitations, failure modes, and implementation choices.
+- **Independent by default.** Each project maintains its own scope, dependencies, and lifecycle.
+- **Open to collaboration.** Contributions, feedback, and thoughtful experimentation are welcome.
+
+## Get involved
+
+Choose a project, follow its setup instructions, experiment with the implementation, and explore the underlying technology.
+
+Found an issue or have an idea? Open an issue or contribute directly to the relevant repository.
+
+---
+
+**JARS DEMO**  
+Created and maintained by **[Jishanahmed AR Shaikh (JARS)](https://jishanahmed.in)**
+
+[GitHub](https://github.com/jars-demo) · [Portfolio](https://jishanahmed.in)
