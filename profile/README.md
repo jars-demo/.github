@@ -1,7 +1,7 @@
 
 **Practical engineering. Learned by building.**
 
-JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs
+JARS DEMO is an independent collection of open-source workshops, developer tools, and hands-on engineering labs.
 
 Explore modern technologies through working implementations, guided experiments, and practical demonstrations. Every project is designed to help developers go beyond documentation and understand how things work in practice.
 
@@ -15,24 +15,25 @@ Hands-on explorations of open-source technologies, with practical examples and r
 
 | Project | What you'll explore |
 |---|---|
-| [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows |
+| [Local AI Demo](https://github.com/jars-demo/local-ai-demo) | Full-stack AI assistant with Next.js, FastAPI, PostgreSQL, and Ollama — fully offline, zero external APIs |
+| [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation with OpenTelemetry |
+| [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection, Docker deployment, and the real security boundary of obfuscated code |
+| [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and the context platform for data and AI stacks |
 | [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications |
-| [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and data platforms |
-| [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection and deployment |
-| [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns |
-| [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation |
+| [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows |
+| [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns, side by side |
 
 ### Developer Tools
 
 Reusable engineering tools designed to extend beyond a single workshop.
 
-- **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** - A provider-agnostic Python email layer with a consistent API.
+- **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** - A provider-agnostic Python email layer with a consistent typed API for SMTP, Resend, or your own provider — with templates, retries, and idempotency.
 
 ### Agent Skills & Playbooks
 
 Focused, reusable instructions and workflows for AI-assisted development.
 
-- **[JARS Skills](https://github.com/jars-demo/jars-skills)** - Practical agent skills and engineering playbooks for modern coding tools.
+- **[JARS Skills](https://github.com/jars-demo/jars-skills)** - 37+ practical agent skills and engineering playbooks for Claude Code, Cursor, Copilot, Codex, and more.
 
 ---
 
