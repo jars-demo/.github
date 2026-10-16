@@ -28,6 +28,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 
 Reusable engineering tools designed to extend beyond a single workshop.
 
+- **[Receipts](https://github.com/jars-demo/wispr-demo)** - Voice-first checklists for AI coding agents. Say what you want, hand the checklist to Claude Code, Codex or Cursor, then check the work against what you said, with the exact lines as proof. Live at [wispr.jishanahmed.in](https://wispr.jishanahmed.in), built for No Hands: The Wispr Challenge.
 - **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** - A provider-agnostic Python email layer with a consistent typed API for SMTP, Resend, or your own provider — with templates, retries, and idempotency.
 
 ### Agent Skills & Playbooks
