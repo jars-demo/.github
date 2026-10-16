@@ -23,6 +23,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications |
 | [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows |
 | [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns, side by side |
+| [Companion Kit](https://github.com/jars-demo/companion-demo) | Playful, accessible website companions: a copy-in React kit, six ready characters and a ten-chapter workshop to draw your own. Live at [companion.jishanahmed.in](https://companion.jishanahmed.in) |
 
 ### Developer Tools
 
