@@ -17,6 +17,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 |---|---|
 | [Local AI Demo](https://github.com/jars-demo/local-ai-demo) | Full-stack AI assistant with Next.js, FastAPI, PostgreSQL, and Ollama — fully offline, zero external APIs |
 | [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation with OpenTelemetry |
+| [gRPC Demo](https://github.com/jars-demo/grpc-demo) | HTTP, HTTPS, TLS, HTTP/2, and gRPC — build a real service, secure it with TLS and mutual TLS, and debug real certificate failures |
 | [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection, Docker deployment, and the real security boundary of obfuscated code |
 | [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and the context platform for data and AI stacks |
 | [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications |
