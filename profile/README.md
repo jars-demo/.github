@@ -27,6 +27,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [FastAPI Workshop](https://github.com/jars-demo/fastapi-demo) | Build Shelf, a production-shaped reading-list API, in twelve short chapters: validation, SQLAlchemy, auth, tests, logs and Docker. Site at [fastapi.jishanahmed.in](https://fastapi.jishanahmed.in) |
 | [TypeScript Workshop](https://github.com/jars-demo/typescript-demo) | Build Streak, a typed habit tracker and CLI, in ten short chapters: unions, generics, safe parsing, errors as values and tests. Site at [typescript.jishanahmed.in](https://typescript.jishanahmed.in) |
 | [GitHub Actions: CI/CD from zero](https://github.com/jars-demo/github-actions-demo) | Take a small app from no automation to tested, released, containerised and deployed on every push, in twelve chapters with real, running workflows. Site at [githubactions.jishanahmed.in](https://githubactions.jishanahmed.in) |
+| [Build Your Own MCP](https://github.com/jars-demo/build-your-mcp-demo) | Build Jotter, a real MCP server in TypeScript, in eleven short chapters: tools, resources, prompts, validation, in-memory tests, stdio and Streamable HTTP, and connecting to Claude Code, Cursor and VS Code. Site at [buildyourmcp.jishanahmed.in](https://buildyourmcp.jishanahmed.in) |
 
 ### Developer Tools
 
