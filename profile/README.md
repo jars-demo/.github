@@ -29,6 +29,9 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [GitHub Actions: CI/CD from zero](https://github.com/jars-demo/github-actions-demo) | Take a small app from no automation to tested, released, containerised and deployed on every push, in twelve chapters with real, running workflows. Site at [githubactions.jishanahmed.in](https://githubactions.jishanahmed.in) |
 | [Evals, not vibes](https://github.com/jars-demo/evals-demo) | A short AI engineering workshop: build a tiny eval harness in plain Python and compare prompts and models with numbers instead of opinions. Site at [evals.jishanahmed.in](https://evals.jishanahmed.in) |
 | [Build Your Own MCP](https://github.com/jars-demo/build-your-mcp-demo) | Build Jotter, a real MCP server in TypeScript, in eleven short chapters: tools, resources, prompts, validation, in-memory tests, stdio and Streamable HTTP, and connecting to Claude Code, Cursor and VS Code. Site at [buildyourmcp.jishanahmed.in](https://buildyourmcp.jishanahmed.in) |
+| [Rate limits from scratch](https://github.com/jars-demo/rate-limit-demo) | Build fixed window, sliding log and token bucket limiters in plain Python, put them in front of a real HTTP server, and write a client that backs off politely. Site at [ratelimit.jishanahmed.in](https://ratelimit.jishanahmed.in) |
+| [Make the slow query fast](https://github.com/jars-demo/slow-query-demo) | Read query plans, choose the right index, fix N+1 queries, page without OFFSET and guard plans in CI, on a 200,000 order SQLite shop. Site at [slowquery.jishanahmed.in](https://slowquery.jishanahmed.in) |
+| [Enterprise auth, hands on](https://github.com/jars-demo/enterprise-auth-demo) | Run an OIDC single sign-on flow with PKCE, verify ID tokens, read SAML, map roles to permissions, find a cross-tenant leak and stop it with Postgres row-level security. Site at [enterpriseauth.jishanahmed.in](https://enterpriseauth.jishanahmed.in) |
 
 ### Developer Tools
 
