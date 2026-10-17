@@ -25,6 +25,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns, side by side |
 | [Companion Kit](https://github.com/jars-demo/companion-demo) | Playful, accessible website companions: a copy-in React kit, six ready characters and a ten-chapter workshop to draw your own. Live at [companion.jishanahmed.in](https://companion.jishanahmed.in) |
 | [FastAPI Workshop](https://github.com/jars-demo/fastapi-demo) | Build Shelf, a production-shaped reading-list API, in twelve short chapters: validation, SQLAlchemy, auth, tests, logs and Docker. Site at [fastapi.jishanahmed.in](https://fastapi.jishanahmed.in) |
+| [TypeScript Workshop](https://github.com/jars-demo/typescript-demo) | Build Streak, a typed habit tracker and CLI, in ten short chapters: unions, generics, safe parsing, errors as values and tests. Site at [typescript.jishanahmed.in](https://typescript.jishanahmed.in) |
 
 ### Developer Tools
 
