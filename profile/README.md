@@ -15,14 +15,14 @@ Hands-on explorations of open-source technologies, with practical examples and r
 
 | Project | What you'll explore |
 |---|---|
-| [Local AI Demo](https://github.com/jars-demo/local-ai-demo) | Full-stack AI assistant with Next.js, FastAPI, PostgreSQL, and Ollama — fully offline, zero external APIs |
-| [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation with OpenTelemetry |
-| [gRPC Demo](https://github.com/jars-demo/grpc-demo) | HTTP, HTTPS, TLS, HTTP/2, and gRPC — build a real service, secure it with TLS and mutual TLS, and debug real certificate failures |
-| [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection, Docker deployment, and the real security boundary of obfuscated code |
-| [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and the context platform for data and AI stacks |
-| [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications |
-| [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows |
-| [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns, side by side |
+| [Local AI Demo](https://github.com/jars-demo/local-ai-demo) | Full-stack AI assistant with Next.js, FastAPI, PostgreSQL, and Ollama fully offline, zero external APIs | Live at [Local AI Demo](https://local-ai.jishanahmed.in/)
+| [OTEL Demo](https://github.com/jars-demo/otel-demo) | Distributed tracing, observability, and incident investigation with OpenTelemetry | Live at [OTEL Demo](https://otel.jishanahmed.in/)
+| [gRPC Demo](https://github.com/jars-demo/grpc-demo) | HTTP, HTTPS, TLS, HTTP/2, and gRPC — build a real service, secure it with TLS and mutual TLS, and debug real certificate failures | Live at [gRPC Demo](https://grpc.jishanahmed.in/)
+| [PyArmor Demo](https://github.com/jars-demo/pyarmor-demo) | Python application protection, Docker deployment, and the real security boundary of obfuscated code | Live at [PyArmor Demo](https://pyarmor.jishanahmed.in/)
+| [DataHub Demo](https://github.com/jars-demo/datahub-demo) | Metadata management, data discovery, and the context platform for data and AI stacks | 
+| [FalkorDB Demo](https://github.com/jars-demo/falkordb-demo) | Graph databases and graph-powered applications | Live at [FalkorDB Demo](https://www.falkordb.com/)
+| [Cognee Demo](https://github.com/jars-demo/cognee-demo) | AI memory, knowledge graphs, and retrieval workflows | Live at [Cognee Demo](https://cognee.jishanahmed.in/)
+| [MCP vs API Demo](https://github.com/jars-demo/mcp-vs-api-demo) | MCP and traditional API integration patterns, side by side | Live at [MCP vs API](https://mcp-vs-api.jishanahmed.in/)
 | [Companion Kit](https://github.com/jars-demo/companion-demo) | Playful, accessible website companions: a copy-in React kit, six ready characters and a ten-chapter workshop to draw your own. Live at [companion.jishanahmed.in](https://companion.jishanahmed.in) |
 | [FastAPI Workshop](https://github.com/jars-demo/fastapi-demo) | Build Shelf, a production-shaped reading-list API, in twelve short chapters: validation, SQLAlchemy, auth, tests, logs and Docker. Site at [fastapi.jishanahmed.in](https://fastapi.jishanahmed.in) |
 | [TypeScript Workshop](https://github.com/jars-demo/typescript-demo) | Build Streak, a typed habit tracker and CLI, in ten short chapters: unions, generics, safe parsing, errors as values and tests. Site at [typescript.jishanahmed.in](https://typescript.jishanahmed.in) |
