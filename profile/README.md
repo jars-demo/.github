@@ -34,6 +34,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Enterprise auth, hands on](https://github.com/jars-demo/enterprise-auth-demo) | Run an OIDC single sign-on flow with PKCE, verify ID tokens, read SAML, map roles to permissions, find a cross-tenant leak and stop it with Postgres row-level security. Site at [enterpriseauth.jishanahmed.in](https://enterpriseauth.jishanahmed.in) |
 | [Ship it to the island](https://github.com/jars-demo/air-gap-demo) | Deploy an app into a network with no internet: catch the calls it makes home, pack a sealed reproducible crate, beat the pirates, carry its wheels, run it in a container with no network and roll it back. Site at [airgap.jishanahmed.in](https://airgap.jishanahmed.in) |
 | [Pull the plug](https://github.com/jars-demo/build-a-database-demo) | Build a key-value database from scratch, then crash it at every byte: an append-only log, an index, checksums, fsync, group commit and compaction. Site at [database.jishanahmed.in](https://database.jishanahmed.in) |
+| [Git good](https://github.com/jars-demo/git-demo) | Learn git by fixing real repositories with HEAD the cat: twelve quests from your first commit to merge conflicts, rebase, bisect, the reflog and working with AI agents. Site at [git.jishanahmed.in](https://git.jishanahmed.in) |
 
 ### Developer Tools
 
