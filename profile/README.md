@@ -37,6 +37,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Git good](https://github.com/jars-demo/git-demo) | Learn git by fixing real repositories with HEAD the cat: twelve quests from your first commit to merge conflicts, rebase, bisect, the reflog and working with AI agents. Site at [git.jishanahmed.in](https://git.jishanahmed.in) |
 | [Debug like a detective](https://github.com/jars-demo/debugging-demo) | Eight real bugs in a tiny bakery app, solved with tracebacks, failing tests, logging, pdb, divide and conquer, profiling and written-down assumptions. Site at [debugging.jishanahmed.in](https://debugging.jishanahmed.in) |
 | [Concurrency, from first principles](https://github.com/jars-demo/concurrency-demo) | Eight real concurrency bugs in one busy kitchen: threads and the GIL, race conditions, lock scope, deadlock, queues, the event loop, semaphores, timeouts and cancellation. Site at [concurrency.jishanahmed.in](https://concurrency.jishanahmed.in) |
+| [Caching, from first principles](https://github.com/jars-demo/caching-demo) | Eight real caching bugs in one small bookshop: cache keys, invalidation, private answers, TTLs, stampedes, eviction policies, negative caching and HTTP ETags. Site at [caching.jishanahmed.in](https://caching.jishanahmed.in) |
 
 ### Developer Tools
 
