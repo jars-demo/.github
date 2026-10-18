@@ -33,6 +33,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Make the slow query fast](https://github.com/jars-demo/slow-query-demo) | Read query plans, choose the right index, fix N+1 queries, page without OFFSET and guard plans in CI, on a 200,000 order SQLite shop. Site at [slowquery.jishanahmed.in](https://slowquery.jishanahmed.in) |
 | [Enterprise auth, hands on](https://github.com/jars-demo/enterprise-auth-demo) | Run an OIDC single sign-on flow with PKCE, verify ID tokens, read SAML, map roles to permissions, find a cross-tenant leak and stop it with Postgres row-level security. Site at [enterpriseauth.jishanahmed.in](https://enterpriseauth.jishanahmed.in) |
 | [Ship it to the island](https://github.com/jars-demo/air-gap-demo) | Deploy an app into a network with no internet: catch the calls it makes home, pack a sealed reproducible crate, beat the pirates, carry its wheels, run it in a container with no network and roll it back. Site at [airgap.jishanahmed.in](https://airgap.jishanahmed.in) |
+| [Pull the plug](https://github.com/jars-demo/build-a-database-demo) | Build a key-value database from scratch, then crash it at every byte: an append-only log, an index, checksums, fsync, group commit and compaction. Site at [database.jishanahmed.in](https://database.jishanahmed.in) |
 
 ### Developer Tools
 
