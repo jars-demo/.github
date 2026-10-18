@@ -36,6 +36,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Pull the plug](https://github.com/jars-demo/build-a-database-demo) | Build a key-value database from scratch, then crash it at every byte: an append-only log, an index, checksums, fsync, group commit and compaction. Site at [database.jishanahmed.in](https://database.jishanahmed.in) |
 | [Git good](https://github.com/jars-demo/git-demo) | Learn git by fixing real repositories with HEAD the cat: twelve quests from your first commit to merge conflicts, rebase, bisect, the reflog and working with AI agents. Site at [git.jishanahmed.in](https://git.jishanahmed.in) |
 | [Debug like a detective](https://github.com/jars-demo/debugging-demo) | Eight real bugs in a tiny bakery app, solved with tracebacks, failing tests, logging, pdb, divide and conquer, profiling and written-down assumptions. Site at [debugging.jishanahmed.in](https://debugging.jishanahmed.in) |
+| [Concurrency, from first principles](https://github.com/jars-demo/concurrency-demo) | Eight real concurrency bugs in one busy kitchen: threads and the GIL, race conditions, lock scope, deadlock, queues, the event loop, semaphores, timeouts and cancellation. Site at [concurrency.jishanahmed.in](https://concurrency.jishanahmed.in) |
 
 ### Developer Tools
 
