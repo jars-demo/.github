@@ -38,6 +38,8 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Debug like a detective](https://github.com/jars-demo/debugging-demo) | Eight real bugs in a tiny bakery app, solved with tracebacks, failing tests, logging, pdb, divide and conquer, profiling and written-down assumptions. Site at [debugging.jishanahmed.in](https://debugging.jishanahmed.in) |
 | [Concurrency, from first principles](https://github.com/jars-demo/concurrency-demo) | Eight real concurrency bugs in one busy kitchen: threads and the GIL, race conditions, lock scope, deadlock, queues, the event loop, semaphores, timeouts and cancellation. Site at [concurrency.jishanahmed.in](https://concurrency.jishanahmed.in) |
 | [Caching, from first principles](https://github.com/jars-demo/caching-demo) | Eight real caching bugs in one small bookshop: cache keys, invalidation, private answers, TTLs, stampedes, eviction policies, negative caching and HTTP ETags. Site at [caching.jishanahmed.in](https://caching.jishanahmed.in) |
+| [Docker, from first container to production](https://github.com/jars-demo/docker-demo) | Twelve exercises on real Docker, from what a container is to releases pinned by digest: the build cache, secrets, networking, volumes, Compose, multi-stage builds, signals, health checks and cgroup limits. Site at [docker.jishanahmed.in](https://docker.jishanahmed.in) |
+| [Once, in order, on time](https://github.com/jars-demo/notifications-demo) | Ten real bugs in a notification service: the transactional outbox, idempotency keys, permanent failures, backoff and jitter, ordering, consent, quiet hours, digests, priority lanes and signed webhooks. Site at [notifications.jishanahmed.in](https://notifications.jishanahmed.in) |
 
 ### Developer Tools
 
