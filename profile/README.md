@@ -41,6 +41,7 @@ Hands-on explorations of open-source technologies, with practical examples and r
 | [Docker, from first container to production](https://github.com/jars-demo/docker-demo) | Twelve exercises on real Docker, from what a container is to releases pinned by digest: the build cache, secrets, networking, volumes, Compose, multi-stage builds, signals, health checks and cgroup limits. Site at [docker.jishanahmed.in](https://docker.jishanahmed.in) |
 | [Once, in order, on time](https://github.com/jars-demo/notifications-demo) | Ten real bugs in a notification service: the transactional outbox, idempotency keys, permanent failures, backoff and jitter, ordering, consent, quiet hours, digests, priority lanes and signed webhooks. Site at [notifications.jishanahmed.in](https://notifications.jishanahmed.in) |
 | [How systems talk](https://github.com/jars-demo/how-systems-talk-demo) | Stage 1 of a hands-on security series: eight local lab cases on DNS, HTTP framing, TLS, cookies, sessions, security headers and access logs, each with a fix and a check. Site at [howsystemstalk.jishanahmed.in](https://howsystemstalk.jishanahmed.in) |
+| [Every row, exactly once](https://github.com/jars-demo/pagination-demo) | Eight real pagination bugs in one small record shop: offsets, limits, a stable order, keyset cursors, ties, opaque cursors, knowing when to stop and syncing changes. Site at [pagination.jishanahmed.in](https://pagination.jishanahmed.in) |
 
 ### Developer Tools
 
