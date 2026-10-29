@@ -7,6 +7,8 @@ Explore modern technologies through working implementations, guided experiments,
 
 Most workshops follow the same shape: short chapters, a small app with real bugs in it, and a check that tells you when your fix works. Each one has its own site to read along.
 
+The whole of October 2026 is also a sky chart you can play: [Thirty-two stars in thirty nights](https://hacktober2026.jishanahmed.in) lights each project on the night it was built ([source](https://github.com/jars-demo/jars-hacktober-2026)).
+
 ---
 
 ## Workshops & Learning Labs
