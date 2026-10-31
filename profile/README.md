@@ -7,7 +7,7 @@ Explore modern technologies through working implementations, guided experiments,
 
 Most workshops follow the same shape: short chapters, a small app with real bugs in it, and a check that tells you when your fix works. Each one has its own site to read along.
 
-The whole of October 2026 is also a sky chart you can play: [Thirty-two stars in thirty nights](https://hacktober2026.jishanahmed.in) lights each project on the night it was built ([source](https://github.com/jars-demo/jars-hacktober-2026)).
+**October 2026: [I didn't type my October. I said it.](https://hacktober2026.jishanahmed.in)** October is Hacktober, so I was already shipping. Then Wispr Flow came in on 16 October and I got 3× faster: 8 → 24 projects and 0 → 5 videos across two 16-day halves, with 315,576 words dictated. Play the whole month on the site ([source](https://github.com/jars-demo/jars-hacktober-2026)).
 
 ---
 
@@ -65,7 +65,7 @@ The whole of October 2026 is also a sky chart you can play: [Thirty-two stars in
 
 | Workshop | What you'll learn | Site |
 |---|---|---|
-| [Git good](https://github.com/jars-demo/git-demo) | Learn Git by fixing real repositories with HEAD the cat: twelve quests from your first commit to merge conflicts, rebase, bisect, the reflog and AI agents. | [git.jishanahmed.in](https://git.jishanahmed.in) |
+| [Git good](https://github.com/jars-demo/git-demo) | Learn Git by fixing real repositories with HEAD the cat: twelve quests from your first commit to merge conflicts, rebase, bisect, the reflog and AI agents. | [git.jishanahmed.in](https://git.jishanahmed.in) · [Watch the demo](https://youtu.be/OAY3ZDkfUYk) |
 | [Debug like a detective](https://github.com/jars-demo/debugging-demo) | Eight real bugs in a tiny bakery app, solved with tracebacks, failing tests, logging, pdb, bisection, profiling and written-down assumptions. | [debugging.jishanahmed.in](https://debugging.jishanahmed.in) |
 | [Concurrency, from first principles](https://github.com/jars-demo/concurrency-demo) | Eight real concurrency bugs in one busy kitchen: threads and the GIL, races, locks, deadlock, queues, asyncio, semaphores, timeouts and cancellation. | [concurrency.jishanahmed.in](https://concurrency.jishanahmed.in) |
 | [TypeScript](https://github.com/jars-demo/typescript-demo) | Build Streak, a typed habit tracker and CLI, in ten chapters: unions, generics, safe parsing, errors as values and Vitest. | [typescript.jishanahmed.in](https://typescript.jishanahmed.in) |
@@ -77,9 +77,13 @@ The whole of October 2026 is also a sky chart you can play: [Thirty-two stars in
 
 Reusable engineering tools designed to extend beyond a single workshop.
 
-- **[Breakdown](https://github.com/jars-demo/wispr-demo)** - *Shipped it? Now understand it.* A three-minute game for every change your coding agent ships: replay what it did, the engineering behind it, predict-the-behaviour questions and an explain-back round. Built hands-free with Wispr Flow for No Hands: The Wispr Challenge (WeMakeDevs). Live at [wispr.jishanahmed.in](https://wispr.jishanahmed.in).
+- **[Breakdown](https://github.com/jars-demo/wispr-demo)** - *Shipped it? Now understand it.* A three-minute game for every change your coding agent ships: replay what it did, the engineering behind it, predict-the-behaviour questions and an explain-back round. Built hands-free with Wispr Flow for No Hands: The Wispr Challenge (WeMakeDevs). Live at [wispr.jishanahmed.in](https://wispr.jishanahmed.in) · [Watch the demo](https://youtu.be/GDPwqEWVzuE).
 - **[MailingKit](https://github.com/jars-demo/mailingkit-demo)** - A drop-in, provider-agnostic transactional email layer for Python. One small typed API for SMTP, Resend or your own provider, with templates, retries and idempotency. Docs at [mailingkit.jishanahmed.in](https://mailingkit.jishanahmed.in).
 - **[Companion Kit](https://github.com/jars-demo/companion-demo)** - Playful, accessible companions for any React app: a copy-in kit, six ready characters and a ten-chapter workshop to draw your own. Live at [companion.jishanahmed.in](https://companion.jishanahmed.in).
+
+## Videos
+
+Explainers and demos on [YouTube](https://www.youtube.com/@jishanahmedarshaikh), including [How Hackers Took $6 Billion From Binance Without Stealing a Key](https://youtu.be/fztHxrgbt3Q) and [Git and GitHub explained in under 3 minutes](https://youtu.be/OAY3ZDkfUYk).
 
 ## Agent Skills & Playbooks
 
