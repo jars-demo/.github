@@ -51,6 +51,7 @@ Most workshops follow the same shape: short chapters, a small app with real bugs
 | [How systems talk](https://github.com/jars-demo/how-systems-talk-demo) | Stage 1 of a security series: eight local lab cases on DNS, HTTP framing, TLS, cookies, sessions, security headers and access logs, each with a fix and a check. | [howsystemstalk.jishanahmed.in](https://howsystemstalk.jishanahmed.in) |
 | [Enterprise auth, hands on](https://github.com/jars-demo/enterprise-auth-demo) | Run an OIDC single sign-on flow with PKCE, verify ID tokens, read SAML, map roles, find a cross-tenant leak and stop it with Postgres row-level security. | [enterpriseauth.jishanahmed.in](https://enterpriseauth.jishanahmed.in) |
 | [PyArmor](https://github.com/jars-demo/pyarmor-demo) | Protect a FastAPI app with PyArmor, verify it, ship it in Docker, and learn the real security boundary of obfuscated Python. | [pyarmor.jishanahmed.in](https://pyarmor.jishanahmed.in) |
+| [Trust no request](https://github.com/jars-demo/web-security-demo) | Stage 2 of the security series: ten real web weaknesses in one small Python service, from SQL injection and XSS to IDOR, CSRF, mass assignment, SSRF, path traversal and open redirects, each with an attack on 127.0.0.1, a fix and a check. | [websecurity.jishanahmed.in](https://websecurity.jishanahmed.in) |
 
 ### DevOps & delivery
 
